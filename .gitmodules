@@ -1,0 +1,3 @@
+[submodule "yangModels"]
+	path = yangModels
+	url = https://github.com/Huawei/yang.git
